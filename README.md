@@ -446,8 +446,8 @@ Watch：觀察生物科技發展
 
 ## 下一步
 
-- [ ] 建立 YouTube playlist 影片清單
-- [ ] 逐支影片整理筆記
+- [x] 建立 YouTube playlist 影片清單
+- [x] 逐支影片整理筆記 (見 `youtube-notes/` 目錄)
 - [ ] 加入科學文獻與醫學資料來源
 - [ ] 持續同步 mindmap.md 的文件關聯
 - [ ] 持續整理 AI 健康陪伴、avatar 與 YogaFlow 3D 的概念
