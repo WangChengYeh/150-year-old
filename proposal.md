@@ -1,6 +1,9 @@
 # 150-year-old Proposal
 
 > 極簡簡報版：150 歲不是保證，而是一個策略假設。
+>
+> 詳細資料、延伸筆記與持續整理內容，可以參考：
+> https://github.com/WangChengYeh/150-year-old
 
 ## 核心命題
 
